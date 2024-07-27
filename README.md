@@ -1,3 +1,3 @@
 # Odin_Recipes
 
-This is a receipt website for lesson 1
+This is a receipe website for lesson 1
